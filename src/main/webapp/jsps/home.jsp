@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions.</h1>
+<h1 align="center">Welcome to Durga Prasad Software Solutions.</h1>
 <h1 align="center"> DurgaPrasad Software Solutions- Vinod Kumar Software-Trilok Software Solutions</h1>
 <hr>
 <br>
